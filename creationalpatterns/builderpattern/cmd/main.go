@@ -3,7 +3,7 @@ package main
 import (
 	"log/slog"
 
-	builder "github.com/teana0953/design-patterns-go/builderpattern"
+	builder "github.com/teana0953/design-patterns-go/creationalpatterns/builderpattern"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
 	"log/slog"
 
-	prototype "github.com/teana0953/design-patterns-go/prototypepattern"
+	prototype "github.com/teana0953/design-patterns-go/creationalpatterns/prototypepattern"
 )
 
 func main() {

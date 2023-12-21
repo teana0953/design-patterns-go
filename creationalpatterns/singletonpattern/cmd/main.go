@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	singleton "github.com/teana0953/design-patterns-go/singletonpattern"
+	singleton "github.com/teana0953/design-patterns-go/creationalpatterns/singletonpattern"
 )
 
 // can use "go run -race ..." to test race condition
