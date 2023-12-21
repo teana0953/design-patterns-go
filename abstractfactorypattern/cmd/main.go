@@ -1,7 +1,7 @@
 package main
 
 import (
-	factory "github.com/teana0953/design-patterns-go/factorypattern"
+	factory "github.com/teana0953/design-patterns-go/abstractfactorypattern"
 )
 
 func main() {

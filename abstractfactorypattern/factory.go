@@ -1,4 +1,4 @@
-package factorypattern
+package abstractfactorypattern
 
 type Aircraft interface {
 	Fly() string

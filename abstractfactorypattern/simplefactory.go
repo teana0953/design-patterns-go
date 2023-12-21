@@ -1,4 +1,4 @@
-package factorypattern
+package abstractfactorypattern
 
 type F16SimpleFactory struct{}
 
